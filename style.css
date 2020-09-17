@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+}
+
+.red {
+    height: 7.69%;
+    width: 100%;
+    background-color: #b22234;
+}
+
+.white {
+    height: 7.69%;
+    width: 100%;
+    background-color: white; 
+}
